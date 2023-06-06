@@ -1,0 +1,2 @@
+# barberias
+informacion barberias
